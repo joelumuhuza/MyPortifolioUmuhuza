@@ -281,7 +281,7 @@ section .title::after{
     transition: all 0.3s ease;
 }
 .services .serv-content .card:hover{
-    background: crimson;
+    background: green;
 }
 .services .serv-content .card .box{
     transition: all 0.3s ease;
@@ -403,7 +403,7 @@ section .title::after{
     transition: all 0.3s ease;
 }
 .teams .carousel .card:hover{
-    background: crimson;
+    background: green;
 }
 .teams .carousel .card .box{
     display: flex;
@@ -450,7 +450,7 @@ section .title::after{
 }
 .owl-dot.active,
 .owl-dot:hover{
-    background: crimson!important;
+    background: Green!important;
 }
 
 /* contact section styling */
